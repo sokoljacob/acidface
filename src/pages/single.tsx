@@ -6,7 +6,7 @@ const Home: NextPage = (props) => {
   return (
     <div>
       <Head>
-        <title>THE REALMS DAO</title>
+        <title>Acid Face</title>
       </Head>
       <Single />
     </div>
